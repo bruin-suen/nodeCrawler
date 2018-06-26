@@ -1,0 +1,26 @@
+{
+  "name": "nodecrawler",
+  "version": "1.0.0",
+  "description": "This is crawler of nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burin-suen/nodeCrawler.git"
+  },
+  "keywords": [
+    "node",
+    "crawler"
+  ],
+  "author": "burin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burin-suen/nodeCrawler/issues"
+  },
+  "homepage": "https://github.com/burin-suen/nodeCrawler#readme",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
